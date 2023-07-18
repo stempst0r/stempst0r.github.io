@@ -78,9 +78,9 @@ Domain          : HTB
 Logged On Users : 2
 Meterpreter     : x86/windows
 ```
-## Privileg Escalation
+## Privilege Escalation
 ---
-Because i'm lazy i'll use `local_exploit_suggest` by running
+Because i'm lazy i'll use `local_exploit_suggester` by running
 ```
 meterpreter > run post/multi/recon/local_exploit_suggester 
 ```
