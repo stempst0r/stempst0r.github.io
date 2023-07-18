@@ -1,7 +1,7 @@
 ---
 title: "HTB Devel"
 date: 2023-07-18T07:17:05Z
-draft: true
+draft: false
 ---
 
 This is my writeup for the HTB Machine [Devel](https://app.hackthebox.com/machines/Devel)
