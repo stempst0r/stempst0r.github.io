@@ -189,3 +189,6 @@ disableHugoGeneratorInject = false
     name       = "CTFs"
     url        = "ctfs/"
 
+[markup]
+    [markup.highlight]
+    style = "doom-one"
