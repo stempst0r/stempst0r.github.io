@@ -181,13 +181,13 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "blog/"
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
   [[menu.main]]
-    identifier = "ctfs"
-    name       = "CTFs"
-    url        = "ctfs/"
+    identifier = "writeups"
+    name       = "Writeups"
+    url        = "writeups/"
 
 [markup]
     [markup.highlight]
